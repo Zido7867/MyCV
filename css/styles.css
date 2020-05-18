@@ -30,6 +30,11 @@ hr{
 p{
   line-height: 2;
 }
+.h2Main{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
 .topContainer{
   background-color: powderblue;
   position: relative;
